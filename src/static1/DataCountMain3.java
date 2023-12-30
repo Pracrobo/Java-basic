@@ -12,7 +12,7 @@ public class DataCountMain3 {
         System.out.println("C count = " + Data3.count);
 
         Data3 data4 = new Data3("D");
-        System.out.println(data4.count);
+        System.out.println(data4.count); // 권장하지 않음
         System.out.println(Data3.count);
 
     }
