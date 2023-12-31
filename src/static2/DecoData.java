@@ -24,6 +24,6 @@ public class DecoData {
     }
 
     private static void staticMethod() {
-        System.out.println("staticValue = " + staticValue);
+        System.out.println("staticValue= " + staticValue);
     }
 }

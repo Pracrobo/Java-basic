@@ -11,7 +11,7 @@ public class DecoDataMain {
         DecoData data1 = new DecoData();
         data1.instanceCall();
 
-        System.out.println("3. 인스턴스 호출");
+        System.out.println("3. 인스턴스 호출2");
         DecoData data2 = new DecoData();
         data2.instanceCall();
     }
